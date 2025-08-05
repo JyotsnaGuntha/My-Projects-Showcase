@@ -1,4 +1,4 @@
-# 🧠 Projects Showcase – React App with setState Callback
+# 🧠 My Projects Showcase – React App with setState Callback
 
 A fast, responsive, and dynamic React app that showcases projects from different categories using API calls and controlled component state updates via `setState` callbacks.
 
